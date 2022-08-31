@@ -4,7 +4,7 @@ mod 13 challenge (Sequelize, MYSQL, Inquirer)
 
 ## Description
 
-This is an e-commerce back-end foundation with seeded data to showcase API get routes for categories, products, and tags. This includes API POST, PUT, and Delete routes that have been tested using Insomnia. View live demo here https://drive.google.com/file/d/1AQkL91HQhI_5BStJnevqEf3TaeI19mS1/view .
+This is an e-commerce back-end foundation with seeded data to showcase API get routes for categories, products, and tags. This includes API GET, POST, PUT, and Delete routes that have been tested using Insomnia. View live demo here https://drive.google.com/file/d/1tXFiaW9vJeVRiOPuv2vrOi9Nca7hfqMx/view .
 
 Functional description via user story below:
 
@@ -77,6 +77,6 @@ GitHub Repository: https://github.com/cduwors/retail-backend-mod13
 
 ## Images
 
-Input Sample
+Insomnia Testing Sample Image
 
-<img src= "./img/employee-tracker.png"/>
+<img src= "./img/eCommerce_app.png"/>
